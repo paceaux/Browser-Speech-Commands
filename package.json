@@ -1,0 +1,15 @@
+{
+  "name": "browser-speech-commands",
+  "version": "0.0.1",
+  "description": "Small API that makes it possible for users to navigate in web browsers by voice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browser",
+    "speech"
+  ],
+  "author": "paceaux",
+  "license": "MIT"
+}
